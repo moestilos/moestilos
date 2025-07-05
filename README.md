@@ -1,20 +1,31 @@
+![Banner](Banner%20linkedin.png)
+
+<h1 align="center">¡Hola! 👋 Soy Guillermo</h1>
+<h3 align="center">Desarrollador Web Full Stack | Frontend Enthusiast</h3>
+
 <div align="center">
-  <img height="200" src=""  />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9F7&center=true&vCenter=true&width=435&lines=Desarrollador+Web+DAW;Frontend+Developer;Siempre+aprendiendo...)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  Sobre Mí</h3>
+## 👨‍💻 Sobre Mí
 
-###
+Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de Aplicaciones Web (DAW)**. 
 
-<p align="left">¡Hola! Soy Guillermo, tengo 21 años y soy recién graduado en Desarrollo de Aplicaciones Web (DAW).<br>Soy una persona motivada, con muchas ganas de seguir aprendiendo y creciendo profesionalmente en el mundo del desarrollo web.<br><br>Me apasiona especialmente el Frontend y todo lo relacionado con el diseño de interfaces atractivas y funcionales. Disfruto trabajando con tecnologías como Tailwind CSS, Angular, Symfony y herramientas como DBeaver para la gestión de bases de datos.<br><br>Siempre busco mejorar mis habilidades y asumir nuevos retos. Me encanta formar parte de proyectos donde pueda aportar tanto creatividad como código limpio y eficiente.</p>
+🚀 **Passionate Developer** - Motivado por crear experiencias web excepcionales
 
-###
+💡 **Frontend Enthusiast** - Me especializo en diseño de interfaces atractivas y funcionales
 
-<h3 align="left">🛠 Tecnologías y Herramientas</h3>
+🎯 **Always Learning** - Constantemente buscando nuevos retos y tecnologías
 
-###
+✨ **Clean Code Advocate** - Creo en la importancia del código limpio y eficiente
+
+---
+
+## 🛠️ Stack Tecnológico
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -52,10 +63,60 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
 
-###
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moestilos&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moestilos&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🎨 Frontend Projects
+- **Interfaces Responsivas**: Desarrollo de UIs modernas con React y Angular
+- **Diseño Web**: Creación de landing pages con Tailwind CSS
+- **Aplicaciones SPA**: Single Page Applications con tecnologías JavaScript modernas
+
+### 🛠️ Backend & Full Stack
+- **APIs REST**: Desarrollo con Spring Boot y Symfony
+- **Gestión de Datos**: Implementación de bases de datos eficientes
+- **Arquitectura Web**: Diseño de aplicaciones escalables
+
+---
+
+## 🌟 Filosofía de Desarrollo
+
+> "El código limpio no es solo escribir código que funcione, sino escribir código que otros puedan leer, entender y mantener fácilmente."
+
+### 🎯 Principios que sigo:
+- **Clean Code**: Código legible y mantenible
+- **Responsive Design**: Experiencias optimizadas para todos los dispositivos
+- **Performance**: Optimización constante del rendimiento
+- **Colaboración**: Trabajo en equipo y comunicación efectiva
+
+---
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moestilos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <p>💫 <strong>Siempre abierto a nuevas oportunidades y colaboraciones</strong> 💫</p>
+  <p>🌟 <em>Let's build something amazing together!</em> 🌟</p>
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/moestilos/count.svg?"  />
 </div>
-
-###
