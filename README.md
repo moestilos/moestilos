@@ -1,7 +1,7 @@
 ![Banner](Banner%20linkedin.png)
 
 <h1 align="center">¡Hola! 👋 Soy Guillermo</h1>
-<h3 align="center">Desarrollador Web Full Stack | Frontend Enthusiast</h3>
+<h3 align="center">Desarrollador Web Full Stack </h3>
 
 <div align="center">
   
@@ -117,6 +117,4 @@ Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de 
   <p>🌟 <em>Let's build something amazing together!</em> 🌟</p>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/moestilos/count.svg?"  />
-</div>
+
