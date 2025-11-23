@@ -65,12 +65,6 @@ Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de 
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moestilos&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moestilos&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-</div>
 
 ---
 
