@@ -66,8 +66,6 @@ Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de 
 ---
 
 
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🎨 Frontend Projects
