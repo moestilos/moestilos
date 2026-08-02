@@ -1,31 +1,41 @@
 ![Banner](Banner%20linkedin.png)
 
-<h1 align="center">¡Hola! 👋 Soy Guillermo</h1>
-<h3 align="center">Desarrollador Web Full Stack </h3>
+<h1 align="center">Hi! 👋 I'm Guillermo</h1>
+<h3 align="center">Full-Stack Web Developer · Automation & Web Scraping · AI-assisted</h3>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9F7&center=true&vCenter=true&width=435&lines=Desarrollador+Web+DAW;Frontend+Developer;Siempre+aprendiendo...)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9F7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Automation+%26+Web+Scraping;AI-assisted+Development;Relocating+to+Gda%C5%84sk+%F0%9F%87%B5%F0%9F%87%B1)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Location](https://img.shields.io/badge/Based_in-Seville,_Spain-E63946?style=flat-square&logo=googlemaps&logoColor=white)
+![Relocating](https://img.shields.io/badge/Relocating_to-Gda%C5%84sk,_Poland_(Oct_2026)-DC143C?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open_to-On--site_·_Hybrid_·_Remote-2E7D32?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About Me
 
-Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de Aplicaciones Web (DAW)**. 
+I'm **Guillermo**, 22, a **Web Application Development (DAW)** graduate working as a full-stack developer focused on **process automation, web scraping and data import/export**.
 
-🚀 **Passionate Developer** - Motivado por crear experiencias web excepcionales
+🚀 **Ship-oriented** — multi-tenant SaaS in production, from idea to live in weeks
 
-💡 **Frontend Enthusiast** - Me especializo en diseño de interfaces atractivas y funcionales
+🤖 **Automation & Scraping** — n8n, Make, Playwright, async Python pipelines
 
-🎯 **Always Learning** - Constantemente buscando nuevos retos y tecnologías
+🧠 **AI-assisted workflow** — Claude Code as my daily driver, agentic development, MCP servers
 
-✨ **Clean Code Advocate** - Creo en la importancia del código limpio y eficiente
+✨ **Clean Code Advocate** — readable, maintainable, tested where it matters
+
+🇵🇱 **Moving to Gdańsk in October 2026** — actively looking for a junior role in the Tri-City area (on-site, hybrid or remote). English B2 (Cambridge), Spanish native.
 
 ---
 
-## 🛠️ Frameworks 
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -38,66 +48,91 @@ Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
 
----
-
-
-## 🚀 Proyectos Destacados
-
-### 🎨 Frontend Projects
-- **Interfaces Responsivas**: Desarrollo de UIs modernas con React y Angular
-- **Diseño Web**: Creación de landing pages con Tailwind CSS
-- **Aplicaciones SPA**: Single Page Applications con tecnologías JavaScript modernas
-
-### 🛠️ Backend & Full Stack
-- **APIs REST**: Desarrollo con Spring Boot y Symfony
-- **Gestión de Datos**: Implementación de bases de datos eficientes
-- **Arquitectura Web**: Diseño de aplicaciones escalables
+**Also working with:** n8n · Make (Integromat) · Playwright · httpx (async) · Pandas · Drizzle ORM · Neon · Stripe · Claude API · Gemini API · Ollama · MCP servers · PaddleOCR · GitHub Actions · Railway
 
 ---
 
-## 🌟 Filosofía de Desarrollo
+## 🚀 Featured Projects
 
-> "El código limpio no es solo escribir código que funcione, sino escribir código que otros puedan leer, entender y mantener fácilmente."
+### 🧾 Motickly — AI-powered B2B invoice management SaaS · [motickly.com](https://motickly.com)
+Multi-tenant SaaS in production for freelancers and SMEs that automates invoice capture and classification. Two input channels — **web** (drag-drop, photos, PDFs) and a **Telegram bot** — with a Gemini 2.5 engine extracting structured data into a realtime dashboard. Design, development, infra, payments and go-to-market entirely my own.
 
-### 🎯 Principios que sigo:
-- **Clean Code**: Código legible y mantenible
-- **Responsive Design**: Experiencias optimizadas para todos los dispositivos
-- **Performance**: Optimización constante del rendimiento
-- **Colaboración**: Trabajo en equipo y comunicación efectiva
+> Multi-tenant workspaces with roles, soft-delete and audit log · server-side plan gating (Free/Hobby/Pro/Business) · four auth methods (email+password with scrypt, Google, GitHub, Telegram magic link) · HSTS preload, strict CSP, rate limiting, brute-force lockout, upload magic-byte validation · self-hosted OCR fallback.
+
+**Stack:** Next.js 15 · TypeScript · Tailwind · PostgreSQL (Neon) · Drizzle · Stripe · Gemini API · Pusher · Telegram Bot API · Resend · OAuth · FastAPI · PaddleOCR · Vercel
+
+### 🕷️ E-commerce catalogue migration — 17,517 products
+Autonomous pipeline that extracted and normalised a full e-commerce catalogue from a legacy platform into a clean multi-sheet Excel, ready for an **Odoo** migration. **99.98% coverage, zero unrecoverable errors**; ~359 fields per product, >750,000 rows, plus a 17,513-URL map for SEO 301 redirects.
+
+**Stack:** Python · Playwright · httpx (async) · Pandas · openpyxl — retry/batch patterns, rate limiting, structured logging
+
+### 🤖 AI Automations — n8n + Make + Claude API
+Workflows on self-hosted **n8n** (Docker) and **Make** orchestrating AI-driven processes: lead capture with automatic classification, conversational bots with the Claude API (tool use, streaming), multi-system syncs and smart notifications. **Ollama** for local-LLM flows where data privacy matters. Code nodes in JS and Python; webhooks, cron, batch and retry patterns.
+
+**Stack:** n8n · Make · Claude API · Ollama · Docker · JavaScript · Python · 15+ integrated APIs (Gmail, Calendar, Drive, Stripe, Supabase, Telegram, GitHub)
 
 ---
 
-## 📫 Conecta Conmigo
+## 🌟 Development Philosophy
+
+> "Clean code isn't just code that works — it's code others can read, understand and maintain easily."
+
+### 🎯 Principles I follow
+- **Clean Code** — readable and maintainable
+- **Responsive Design** — optimised for every device
+- **Performance** — measure first, optimise after
+- **Collaboration** — teamwork and clear communication
+
+---
+
+## 📫 Get in Touch
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-mateos-de-los-santos-aguilera-02427b260/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moestilos)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moestilos-git-main-moestilos-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo.moestilos@gmail.com)
 
 </div>
@@ -105,8 +140,6 @@ Soy **Guillermo**, tengo **21 años** y soy recién graduado en **Desarrollo de 
 ---
 
 <div align="center">
-  <p>💫 <strong>Siempre abierto a nuevas oportunidades y colaboraciones</strong> 💫</p>
+  <p>💫 <strong>Open to new opportunities in Gdańsk & the Tri-City area</strong> 💫</p>
   <p>🌟 <em>Let's build something amazing together!</em> 🌟</p>
 </div>
-
-
