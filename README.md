@@ -5,15 +5,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9F7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Automation+%26+Web+Scraping;AI-assisted+Development;Relocating+to+Gda%C5%84sk+%F0%9F%87%B5%F0%9F%87%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9F7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Automation+%26+Web+Scraping;AI-assisted+Development;Open+to+Remote+%26+On--site+Roles)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 ![Location](https://img.shields.io/badge/Based_in-Seville,_Spain-E63946?style=flat-square&logo=googlemaps&logoColor=white)
-![Relocating](https://img.shields.io/badge/Relocating_to-Gda%C5%84sk,_Poland_(Oct_2026)-DC143C?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to work](https://img.shields.io/badge/Open_to-On--site_·_Hybrid_·_Remote-2E7D32?style=flat-square)
+![Languages](https://img.shields.io/badge/English_B2_·_Spanish_native-1E88E5?style=flat-square)
 
 </div>
 
@@ -23,15 +23,13 @@
 
 I'm **Guillermo**, 22, a **Web Application Development (DAW)** graduate working as a full-stack developer focused on **process automation, web scraping and data import/export**.
 
-🚀 **Ship-oriented** — multi-tenant SaaS in production, from idea to live in weeks
-
-🤖 **Automation & Scraping** — n8n, Make, Playwright, async Python pipelines
+🚀 **Ship-oriented** — multi-
 
 🧠 **AI-assisted workflow** — Claude Code as my daily driver, agentic development, MCP servers
 
 ✨ **Clean Code Advocate** — readable, maintainable, tested where it matters
 
-🇵🇱 **Moving to Gdańsk in October 2026** — actively looking for a junior role in the Tri-City area (on-site, hybrid or remote). English B2 (Cambridge), Spanish native.
+🌍 **Open to relocation** — available for on-site, hybrid or remote roles. English B2 (Cambridge), Spanish native.
 
 ---
 
@@ -44,10 +42,7 @@ I'm **Guillermo**, 22, a **Web Application Development (DAW)** graduate working 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
+  <img src="https://skillicon
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
@@ -76,10 +71,7 @@ I'm **Guillermo**, 22, a **Web Application Development (DAW)** graduate working 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  <img src="https://skillicon
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
@@ -103,9 +95,7 @@ Multi-tenant SaaS in production for freelancers and SMEs that automates invoice 
 **Stack:** Next.js 15 · TypeScript · Tailwind · PostgreSQL (Neon) · Drizzle · Stripe · Gemini API · Pusher · Telegram Bot API · Resend · OAuth · FastAPI · PaddleOCR · Vercel
 
 ### 🕷️ E-commerce catalogue migration — 17,517 products
-Autonomous pipeline that extracted and normalised a full e-commerce catalogue from a legacy platform into a clean multi-sheet Excel, ready for an **Odoo** migration. **99.98% coverage, zero unrecoverable errors**; ~359 fields per product, >750,000 rows, plus a 17,513-URL map for SEO 301 redirects.
-
-**Stack:** Python · Playwright · httpx (async) · Pandas · openpyxl — retry/batch patterns, rate limiting, structured logging
+Autonomous pipeline that extracted and normalised a full e-commerce catalogue from a legacy platform into a clean multi-sheet Excel, ready for alogging
 
 ### 🤖 AI Automations — n8n + Make + Claude API
 Workflows on self-hosted **n8n** (Docker) and **Make** orchestrating AI-driven processes: lead capture with automatic classification, conversational bots with the Claude API (tool use, streaming), multi-system syncs and smart notifications. **Ollama** for local-LLM flows where data privacy matters. Code nodes in JS and Python; webhooks, cron, batch and retry patterns.
@@ -140,6 +130,6 @@ Workflows on self-hosted **n8n** (Docker) and **Make** orchestrating AI-driven p
 ---
 
 <div align="center">
-  <p>💫 <strong>Open to new opportunities in Gdańsk & the Tri-City area</strong> 💫</p>
+  <p>💫 <strong>Open to new opportunities — remote, hybrid or on-site</strong> 💫</p>
   <p>🌟 <em>Let's build something amazing together!</em> 🌟</p>
 </div>
