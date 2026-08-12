@@ -21,7 +21,8 @@
 
 ## 👨‍💻 About Me
 
-I'm **Guillermo**, 22, a **Web
+I'm **Guillermo**, 22, a **Web Application Development (DAW)** graduate working as a full-stack developer focused on **process automation, web scraping and data import/export**.
+
 🧠 **AI-assisted workflow** — Claude Code as my daily driver, agentic development, MCP servers
 
 ✨ **Clean Code Advocate** — readable, maintainable, tested where it matters
@@ -33,53 +34,22 @@ I'm **Guillermo**, 22, a **Web
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.d
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,nodejs,python,fastapi,php,laravel,symfony,spring,postgres,sqlite,docker,linux,vercel,git,github,maven,ai,ps&perline=9" alt="tech stack" />
 </div>
 
 **Also working with:** n8n · Make (Integromat) · Playwright · httpx (async) · Pandas · Drizzle ORM · Neon · Stripe · Claude API · Gemini API · Ollama · MCP servers · PaddleOCR · GitHub Actions · Railway
-
----
-
-## 🚀 Featured Projects
 
 ### 🧾 Motickly — AI-powered B2B invoice management SaaS · [motickly.com](https://motickly.com)
 Multi-tenant SaaS in production for freelancers and SMEs that automates invoice capture and classification. Two input channels — **web** (drag-drop, photos, PDFs) and a **Telegram bot** — with a Gemini 2.5 engine extracting structured data into a realtime dashboard. Design, development, infra, payments and go-to-market entirely my own.
 
 > Multi-tenant workspaces with roles, soft-delete and audit log · server-side plan gating (Free/Hobby/Pro/Business) · four auth methods (email+password with scrypt, Google, GitHub, Telegram magic link) · HSTS preload, strict CSP, rate limiting, brute-force lockout, upload magic-byte validation · self-hosted OCR fallback.
 
+**Stack:** Next.js 15 · TypeScript · Tailwind · PostgreSQL (Neon) · Drizzle · Stripe · Gemini API · Pusher · Telegram Bot API · Resend · OAuth · FastAPI · PaddleOCR · Vercel
 
-### 🤖 AI Automations — n8n + Make + Claude API
-Workflows on self-hosted **n8n** (Docker) and **Make** orchestrating AI-driven processes: lead capture with automatic classification, conversational bots with the Claude API (tool use, streaming), multi-system syncs and smart notifications. **Ollama** for local-LLM flows where data privacy matters. Code nodes in JS and Python; webhooks, cron, batch and retry patterns.
+### 🕷️ E-commerce catalogue migration — 17,517 products
+Autonomous pipeline that extracted and normalised a full e-commerce catalogue from a legacy platform into a clean multi-sheet Excel, ready for an **Odoo** migration. **99.98% coverage, zero unrecoverable errors**; ~359 fields per product, >750,000 rows, plus a 17,513-URL map for SEO 301 redirects.
+
+**Stack:** Python · Playwright · httpx (async) · Pandas · openpyxl — retry/batch patterns, rate limiting, structured loggingclassification, conversational bots with the Claude API (tool use, streaming), multi-system syncs and smart notifications. **Ollama** for local-LLM flows where data privacy matters. Code nodes in JS and Python; webhooks, cron, batch and retry patterns.
 
 **Stack:** n8n · Make · Claude API · Ollama · Docker · JavaScript · Python · 15+ integrated APIs (Gmail, Calendar, Drive, Stripe, Supabase, Telegram, GitHub)
 
